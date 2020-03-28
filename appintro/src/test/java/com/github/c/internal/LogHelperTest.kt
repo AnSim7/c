@@ -1,4 +1,4 @@
-package com.github.appintro.internal
+package com.github.c.internal
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

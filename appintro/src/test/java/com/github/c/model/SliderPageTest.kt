@@ -1,4 +1,4 @@
-package com.github.appintro.model
+package com.github.c.model
 
 import android.graphics.Color
 import org.junit.Assert.assertEquals

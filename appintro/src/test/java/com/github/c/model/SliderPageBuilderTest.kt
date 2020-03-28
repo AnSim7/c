@@ -1,7 +1,7 @@
-package com.github.appintro.appintroexample
+package com.github.c.appintroexample
 
 import android.graphics.Color
-import com.github.appintro.model.SliderPagerBuilder
+import com.github.c.model.SliderPagerBuilder
 import org.junit.Assert.assertEquals
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.github.appintro
+package com.github.c
 
 class Bank{
     val name="sber"
