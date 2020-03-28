@@ -56,11 +56,6 @@ ktlint {
     }
 }
 
-detekt {
-    toolVersion = "1.4.0"
-    config = files("./detekt-config.yml")
-    input = files("src/main/java")
-}
 
 tasks.withType(io.gitlab.arturbosch.detekt.Detekt) {
     exclude("**/resources/**,**/build/**")
